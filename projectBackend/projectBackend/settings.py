@@ -25,7 +25,7 @@ SECRET_KEY = 'n^0(0qr^mrx2i_m%1@d*%#2x87r^tw^&mctvd1w*v_!8f3lzk2'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['insta-asli.herokuapp.com','192.168.0.101', '192.168.0.102','192.168.0.100','192.168.0.103','192.168.0.104']
+ALLOWED_HOSTS = ['insta-asli.herokuapp.com','192.168.0.101', '192.168.0.102','192.168.0.100','192.168.0.103','192.168.0.104','192.168.0.105']
 
 
 # Application definition
